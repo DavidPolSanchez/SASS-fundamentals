@@ -1,0 +1,40 @@
+.caja h2 {
+  color: black;
+  font-family: Arial;
+}
+.caja p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+}
+
+body {
+  background: green;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: blue;
+}
+
+.caja {
+  background-color: yellow;
+  border: 4px solid black;
+  box-shadow: 0px 0px 2px black;
+  color: blue;
+}
+
+.caja-secundaria {
+  background-color: white;
+  border: 4px solid black;
+  box-shadow: 0px 0px 2px black;
+  color: blue;
+}
+
+.caja, .caja-secundaria {
+  width: 300px;
+}
+
+/*# sourceMappingURL=styles.css.map */
